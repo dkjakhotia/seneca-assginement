@@ -8,7 +8,7 @@ The main goal of the project is to demostrate how to allocate given number of ta
 
 How does it work?
 
-You can use the endpoints behind http://localhost:8080/workload/distribute and pass a JOSN as per the following protocol
+You can use the endpoints behind http://localhost:8080/workload/distribute and pass a JOSN as per the below protocol
 
 {  
    "numberOfTask":100,
